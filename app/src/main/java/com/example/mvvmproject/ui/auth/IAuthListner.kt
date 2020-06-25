@@ -1,4 +1,4 @@
-package com.example.mvvmproject.Ui.auth
+package com.example.mvvmproject.ui.auth
 
 interface IAuthListner {
     fun onStarted()
